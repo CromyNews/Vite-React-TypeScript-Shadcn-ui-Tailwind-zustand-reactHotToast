@@ -9,6 +9,8 @@ const Home = () => {
       <div className='text-2xl'>Typescript</div>
       <div className='text-2xl'>shadcn/ui</div>
       <div className='text-2xl'>tailwind</div>
+      <div className='text-2xl'>zustand</div>
+      <div className='text-2xl'>react-hot-toast</div>
     </div>
   )
 }
